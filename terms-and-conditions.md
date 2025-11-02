@@ -1,0 +1,1 @@
+Placeholder text for terms and conditions
