@@ -1,0 +1,1 @@
+Skateboarding is an inherently dangerous activity. By using this app, you acknowledge and accept all risks, and you waive your right to sue the creators of this app for any injuries or damages. (This is placeholder text. You should replace this with your actual waiver.)
