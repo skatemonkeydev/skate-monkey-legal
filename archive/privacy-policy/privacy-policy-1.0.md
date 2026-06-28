@@ -1,7 +1,7 @@
 # Skate Monkey Privacy Policy
 
-**Effective Date:** June 28, 2026
-**Version:** 1.1
+**Effective Date:** January 5, 2026
+**Version:** 1.0
 
 ## Table of Contents
 1. [Introduction](#1-introduction)
@@ -248,7 +248,6 @@ When you delete your account:
 - Your account information, videos, and messages will be deleted within **30-90 days**
 - Some data may be retained in backup systems for up to an additional 90 days
 - We may retain certain information as required by law or for legitimate business purposes (e.g., to prevent fraud, resolve disputes, enforce our Terms)
-- To prevent abuse of the one-game free trial, we retain a record of your email address and the date your trial was used, even after account deletion. This data is used solely to enforce the trial limit and is not used for any other purpose.
 
 ### 7.4 Legal Obligations
 We may retain information longer if required by:
@@ -461,5 +460,5 @@ We will respond to privacy requests within **30-45 days**.
 
 By accepting this Privacy Policy, creating an account, or using Skate Monkey, you acknowledge that you have read and understood this Privacy Policy and agree to our collection, use, and sharing of your information as described herein.
 
-**Last Updated:** June 28, 2026
-**Version:** 1.1
+**Last Updated:** January 5, 2026
+**Version:** 1.0
