@@ -1,7 +1,7 @@
 # Skate Monkey Liability Waiver and Release of Claims
 
-**Effective Date:** January 5, 2026
-**Version:** 1.0
+**Effective Date:** November 8, 2026
+**Version:** 2.0
 
 ---
 
@@ -11,7 +11,7 @@
 
 This Liability Waiver and Release of Claims ("Waiver") is a legal agreement between you and Skate Monkey LLC. By accepting this Waiver and using the Skate Monkey app, you are agreeing to waive certain legal rights, including the right to sue for injuries or damages related to skateboarding activities.
 
-**If you are under 18 years of age, a parent or legal guardian must read and accept this Waiver on your behalf.**
+**If you are under 18 years of age, a parent or legal guardian must review this Waiver and consent to your use of the App. That consent does not release your claims for injury where the law prohibits such a release.**
 
 If you do not understand this Waiver or have questions, you should consult with an attorney before using the App.
 
@@ -24,7 +24,7 @@ If you do not understand this Waiver or have questions, you should consult with 
 4. [Indemnification](#4-indemnification)
 5. [Medical Disclaimer](#5-medical-disclaimer)
 6. [Video Recording and Submission](#6-video-recording-and-submission)
-7. [Parental Consent (For Users Ages 13-17)](#7-parental-consent-for-users-ages-13-17)
+7. [Parental Consent (For Users Ages 13-17)](#7-consent-by-parent-or-legal-guardian-for-users-ages-13-17)
 8. [Governing Law and Severability](#8-governing-law-and-severability)
 9. [Acknowledgment of Understanding](#9-acknowledgment-of-understanding)
 
@@ -145,7 +145,7 @@ You expressly assume the risk of:
 
 - Any injury, illness, disability, or death you suffer while skateboarding
 - Any property damage you suffer while skateboarding
-- Your use of the Skate Monkey app
+- Skateboarding or filming activities undertaken in connection with your use of the Skate Monkey app
 - Tricks generated or suggested by the App
 - Any negligence or fault of the Released Parties
 
@@ -243,7 +243,7 @@ To mark a trick as successfully landed, you **must** record and upload a video o
 ## 7. Consent by Parent or Legal Guardian (For Users Ages 13-17)
 
 ### 7.1 Review and Consent Required
-**If you are between 13 and 17 years of age, your parent or legal guardian must read and accept this Waiver on your behalf.**
+If you are between 13 and 17 years of age, your parent or legal guardian must personally review this Waiver and separately consent to your use of the App before you participate. When prompted, pass your device to your parent or legal guardian so that they can complete the parental consent process themselves. Your own acceptance or statement that your parent or legal guardian has consented does not substitute for their separate consent.
 
 By allowing your minor child or ward to use Skate Monkey, you (the parent or legal guardian) acknowledge and agree to the following:
 
@@ -258,28 +258,22 @@ As the parent or legal guardian, you acknowledge that:
 
 ### 7.3 Assumption of Risk by Parent or Legal Guardian
 As the parent or legal guardian, you:
-- **Voluntarily assume all risks** on behalf of your child or ward
+- **Acknowledge the risks described in this Waiver and consent to your child or ward's participation**
 - Accept full responsibility for your child or ward's use of Skate Monkey
 - Accept full responsibility for your child or ward's skateboarding activities
 
-### 7.4 Release of Liability by Parent or Legal Guardian
-As the parent or legal guardian, you:
-- **Release the Released Parties from all liability** for injuries or damages your child or ward suffers while skateboarding
-- Waive your right and your child or ward's right to sue the Released Parties
-- Agree to indemnify the Released Parties for claims arising from your child or ward's use of the App or skateboarding activities
-
-### 7.5 Supervision Responsibilities of Parent or Legal Guardian
+### 7.4 Supervision Responsibilities of Parent or Legal Guardian
 As the parent or legal guardian, you are responsible for:
 - **Ensuring your child or ward wears appropriate safety gear** (helmet, knee pads, elbow pads, wrist guards)
-- Supervising your child or ward's skateboarding activities to the extent you deem necessary
+- Providing active, in-person supervision whenever your child or ward uses the App to select or attempt a skateboarding trick or records a trick attempt
 - Ensuring your child or ward skateboards in safe, legal locations
 - Ensuring your child or ward has appropriate skateboarding instruction and training
 - Ensuring your child or ward does not attempt tricks beyond their skill level
 - Providing appropriate medical care and health insurance for your child or ward
 - Discussing online safety and appropriate behavior with your child or ward
 
-### 7.6 Binding Agreement
-By accepting this Waiver on behalf of your child or ward, you are entering into a binding legal agreement. You are waiving your child or ward's legal rights and your own legal rights to sue for injuries.
+### 7.5 Binding Agreement
+By consenting to your child or ward's use of Skate Monkey, you acknowledge the risks described in this Waiver and agree to the parental responsibilities stated here.
 
 **If you do not agree to this Waiver, your child or ward may not use Skate Monkey.**
 
@@ -294,7 +288,7 @@ This Waiver shall be governed by and construed in accordance with the laws of th
 If any provision of this Waiver is found to be invalid, unlawful, or unenforceable, the remaining provisions shall remain in full force and effect. The invalid provision shall be modified to the minimum extent necessary to make it valid and enforceable while preserving the intent of the parties.
 
 ### 8.3 Entire Agreement
-This Waiver, together with our [Terms and Conditions](https://raw.githubusercontent.com/skatemonkeydev/skate-monkey-legal/main/terms-and-conditions.md) and [Privacy Policy](https://raw.githubusercontent.com/skatemonkeydev/skate-monkey-legal/main/privacy-policy.md), constitutes the entire agreement between you and Skate Monkey LLC regarding liability for skateboarding-related injuries.
+This Waiver, together with our [Terms and Conditions](https://raw.githubusercontent.com/skatemonkeydev/skate-monkey-legal/main/terms-and-conditions.md) and [Privacy Policy](https://raw.githubusercontent.com/skatemonkeydev/skate-monkey-legal/main/privacy-policy.md), constitutes the entire agreement between you and Skate Monkey LLC regarding liability for skateboarding-related injuries. If this Waiver conflicts with the Terms and Conditions or the Privacy Policy concerning a release of liability for skateboarding-related injuries, this Waiver controls to the extent of that conflict. Nothing in the Privacy Policy expands this Waiver's release of liability.
 
 ---
 
@@ -303,23 +297,23 @@ This Waiver, together with our [Terms and Conditions](https://raw.githubusercont
 By accepting this Waiver and using Skate Monkey, you acknowledge and certify that:
 
 - ✓ **I have carefully read this entire Waiver** and understand all of its terms
-- ✓ **I understand that I am waiving legal rights,** including the right to sue for injuries
+- ✓ If I am an adult user, I understand that I am waiving legal rights, including the right to sue for certain injuries
 - ✓ **I understand that skateboarding is inherently dangerous** and could result in serious injury or death
 - ✓ **I voluntarily assume all risks** associated with skateboarding
-- ✓ **I release Skate Monkey from all liability** for injuries or damages I suffer while skateboarding
+- ✓ If I am an adult user, I release the Released Parties from liability for injuries or damages to the extent stated in Section 3
 - ✓ **I have had the opportunity to ask questions** and seek legal advice about this Waiver
 - ✓ **I am signing this Waiver voluntarily,** without any pressure or coercion
-- ✓ **I am physically and mentally capable** of skateboarding safely
+- ✓ I understand that the App does not assess my physical or mental readiness to skateboard; I will decide whether I am able to participate safely and will not skate if I am injured, ill, or impaired.
 - ✓ **I will wear appropriate safety gear** and follow safe skating practices
 - ✓ **I am at least 13 years old,** or I am a parent/guardian accepting on behalf of my child
 
 **If you are ages 13-17:**
-- ✓ **My parent or legal guardian has reviewed and accepted this Waiver** on my behalf
+- ✓ My parent or legal guardian has reviewed this Waiver and consented to my use of the App
 
 **If you are a parent or legal guardian:**
 - ✓ **I have reviewed this Waiver with my child or ward** and explained the risks
-- ✓ **I accept all terms of this Waiver on behalf of my child or ward**
-- ✓ **I am legally authorized** to bind my child or ward to this agreement
+- ✓ I consent to my child or ward's use of the App and acknowledge the risks described in this Waiver
+- ✓ I am the parent or legal guardian authorized to consent to my child or ward's use of the App
 
 ---
 
@@ -347,7 +341,7 @@ This Waiver is designed to be as broad and inclusive as permitted by law. If you
 
 ---
 
-**Last Updated:** January 5, 2026
-**Version:** 1.0
+**Last Updated:** November 8, 2026
+**Version:** 2.0
 
 **© 2026 Skate Monkey LLC. All rights reserved.**

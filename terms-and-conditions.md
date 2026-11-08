@@ -1,7 +1,7 @@
 # Skate Monkey Terms and Conditions
 
-**Effective Date:** January 5, 2026
-**Version:** 1.0
+**Effective Date:** November 8, 2026
+**Version:** 2.0
 
 ## Table of Contents
 1. [Agreement to Terms](#1-agreement-to-terms)
@@ -38,7 +38,7 @@ Skate Monkey is a multiplayer game that allows users to play the skateboarding g
 ### 2.1 Age Requirement
 You must be at least **13 years old** to create an account and use Skate Monkey. By creating an account, you represent and warrant that you are at least 13 years of age.
 
-**For users ages 13-17:** You must have permission from a parent or legal guardian to use this App. Your parent or legal guardian must review and agree to these Terms, our Privacy Policy, and our Liability Waiver on your behalf.
+**For users ages 13-17:** Before you create an account or use the App, your parent or legal guardian must personally review and affirmatively accept these Terms and the Liability Waiver and acknowledge and accept the Privacy Policy. Your statement that you have permission, or your acceptance of these documents alone, does not satisfy this requirement. A parent or legal guardian accepting these documents must confirm that they are at least 18 years old and are the user's parent or legally authorized guardian, identify the minor's account, and consent to the minor's use of the App, including participation in games and communications with adult users. The parent or legal guardian must review the physical-activity risks and online-safety disclosures with the minor. Any acceptance on the minor's behalf, release, or indemnification obligation is subject to applicable law; parental permission does not waive any right or claim that cannot lawfully be waived. If the required parental acceptance has not been obtained, the minor may not create an account or use the App. Information collected to document parental acceptance will be handled in accordance with our Privacy Policy.
 
 ### 2.2 Account Creation
 To use Skate Monkey, you must create an account by providing:
@@ -170,15 +170,31 @@ We are not obligated to monitor all content but may review content when reported
 **You are responsible for keeping your original videos.** We are not responsible for preserving game content indefinitely and are not obligated to provide notice before deleting inactive games.
 
 ### 4.7 DMCA Copyright Infringement Policy
-If you believe content on Skate Monkey infringes your copyright, please submit a DMCA notice to our designated agent (see Contact Information). Your notice must include:
-- Identification of the copyrighted work
-- Identification of the infringing material and its location
-- Your contact information
-- A statement of good faith belief that use is not authorized
-- A statement that the information is accurate and you are authorized to act
-- Your physical or electronic signature
+**Copyright Notices.** If you believe material on the Service infringes your copyright, send a written notice to our designated agent at skatemonkey-dmca@copybyte.com with the subject "DMCA Notice." The notice must include:
 
-We will remove infringing content and may terminate repeat infringers.
+(a) Your physical or electronic signature as the copyright owner or a person authorized to act on the owner's behalf;
+
+(b) Identification of the copyrighted work claimed to be infringed, or a representative list if multiple works at a single online site are involved;
+
+(c) Identification of the allegedly infringing material and information reasonably sufficient for us to locate it, such as the game identifier, username, submission identifier, or available link;
+
+(d) Your mailing address, telephone number, and email address, if available;
+
+(e) A statement that you have a good-faith belief that the use complained of is not authorized by the copyright owner, its agent, or the law; and
+
+(f) A statement that the information in your notice is accurate and, under penalty of perjury, that you are authorized to act on behalf of the owner of the exclusive right allegedly infringed.
+
+We will respond expeditiously to substantially compliant notices by removing or disabling access to the identified material and will take reasonable steps promptly to notify the affected uploader. We may request missing information and will take reasonable steps to assist in completing notices as required by applicable law.
+
+**Counter-Notices.** If you believe your material was removed or disabled because of mistake or misidentification, you may send a written counter-notice to the same email address with the subject "DMCA Counter-Notice." It must include your physical or electronic signature; identification of the removed material and its former location; a statement under penalty of perjury that you have a good-faith belief the material was removed or disabled because of mistake or misidentification; and your name, address, and telephone number. It must also state that you consent to the jurisdiction of the federal district court for the judicial district where your address is located (or, if outside the United States, any judicial district where Skate Monkey LLC may be found), and that you will accept service of process from the original complaining party or that party's agent. This federal-court consent applies notwithstanding the Utah state-court venue provision in Section 14.
+
+Upon receipt of a substantially compliant counter-notice, we will promptly forward a copy to the original complaining party and inform that party that we will restore the material in 10 business days. We will restore the material not less than 10 nor more than 14 business days after receiving the counter-notice unless our designated agent first receives notice that the complaining party has filed an action seeking a court order restraining the uploader's infringing activity concerning that material. Material may remain unavailable for an independent violation of these Terms unrelated to the copyright claim.
+
+**Information Sharing and Misrepresentations.** Notices and counter-notices, including contact information, may be shared with the affected uploader or complaining party as necessary to administer this process, consistent with our Privacy Policy. Knowingly making material misrepresentations in a notice or counter-notice may result in liability under applicable law.
+
+**Repeat Infringers.** We will terminate, in appropriate circumstances, accounts of users who are repeat copyright infringers. We will reasonably implement this policy, considering relevant notices, counter-notices, and other available information. This policy is not subject to a guaranteed warning or fixed number of violations under Section 3.4.
+
+**Designated Agent Details.** Jonathan Bailey, CopyByte, 3157 Gentilly Blvd Suite # 2254, New Orleans, LA 70122. Phone: 1-504-356-4555. Email: skatemonkey-dmca@copybyte.com
 
 ---
 
@@ -257,9 +273,9 @@ Skate Monkey is a game facilitation app. We do not:
 
 **You are not required to attempt every trick.** You may mark any trick as "missed" without attempting it if you deem it too difficult or dangerous. **Your safety is more important than winning the game.** Do not attempt tricks beyond your skill level just to avoid receiving a letter.
 
-### 6.4 Safety Recommendations
-We strongly recommend that you:
-- **Always wear appropriate safety gear,** including helmet, knee pads, elbow pads, and wrist guards
+### 6.4 Required Protective Gear and Safety Recommendations
+The protective-gear requirement below is mandatory. We strongly recommend the other safety practices listed in this Section:
+- **You must wear a properly fitted helmet designed for skateboarding, knee pads, elbow pads, and wrist guards whenever skateboarding in connection with the App, including when attempting or filming tricks for a game. This is a condition of participation, not merely a recommendation. Protective gear does not eliminate the risk of injury, and Skate Monkey does not supervise or verify compliance**
 - Only attempt tricks within your skill level
 - Skate only in safe, legal locations where skateboarding is permitted
 - Obtain permission before skating on private property
@@ -270,7 +286,7 @@ We strongly recommend that you:
 - Consult with a physician before beginning any new physical activity
 
 ### 6.5 No Liability for Injuries
-By using Skate Monkey, you voluntarily assume all risks associated with skateboarding. **We are not liable for any injuries, damages, or losses** you sustain while skateboarding, whether or not you were attempting tricks generated by the App.
+Your assumption of skateboarding risks and any release of liability for injuries, damages, or losses sustained while skateboarding, including while attempting tricks generated by the App, are governed by and subject to the scope, limitations, and exceptions of our Liability Waiver and applicable law. This Section does not expand the Liability Waiver or waive any claim preserved by it, including claims for willful or intentional misconduct, gross negligence where its waiver is prohibited by law, or violations of law that cannot be waived.
 
 For complete details on liability, please review our [Liability Waiver](https://raw.githubusercontent.com/skatemonkeydev/skate-monkey-legal/main/liability-waiver.md).
 
@@ -339,13 +355,15 @@ We do **not** actively monitor all communications between users. However, we res
 - Cooperate with law enforcement investigations
 
 ### 8.4 User Reporting
-We encourage users to report inappropriate content or behavior. Once we implement a user reporting mechanism, you will be able to report:
+Users may report other users, inappropriate content, or behavior through the App's in-app reporting tools. Users and parents or legal guardians may also submit reports by emailing skatemonkeydev@gmail.com with the subject line "Safety Report."
+
+Reportable concerns include:
 - Inappropriate messages or videos
 - Harassment or bullying
 - Suspected grooming or exploitation
 - Terms violations
 
-We will review reports and take appropriate action, which may include content removal, warnings, or account termination.
+When submitting a report, include the relevant username, game identifier if available, date and time, and a brief description of the concern. Include screenshots only if safe and lawful to do so; do not download, copy, or forward suspected child sexual abuse material. Provide only information reasonably necessary to investigate the report. We will review reports and take appropriate action, which may include content removal, warnings, account suspension, or account termination. Information provided in reports will be handled in accordance with our Privacy Policy. The reporting email is not an emergency service and is not continuously monitored. If anyone is in immediate danger, contact 911 or the appropriate local emergency services rather than waiting for a response from Skate Monkey.
 
 ### 8.5 Awareness for Parents and Legal Guardians
 **Parents and legal guardians of users ages 13-17 should be aware that:**
@@ -411,8 +429,8 @@ Refunds for subscriptions are governed by the refund policies of the Apple App S
 ## 11. Intellectual Property
 
 ### 11.1 Skate Monkey Ownership
-All rights, title, and interest in the Service, including the App, software, design, trademarks, logos, and other content created by us, are owned by Skate Monkey LLC and its licensors. You may not:
-- Copy, modify, or create derivative works of our software
+All rights, title, and interest in the Service, including the App, software, design, trademarks, logos, and other content created by us, are owned by Skate Monkey LLC and its licensors. Subject to your compliance with these Terms and applicable subscription requirements, Skate Monkey LLC grants you a limited, non-exclusive, non-transferable, non-sublicensable license to download, install, and use the App on devices you own or control, and to access and use the Service, solely for your personal, non-commercial recreational use. This license is subject to applicable Apple App Store or Google Play usage rules. The App is licensed, not sold; no ownership rights in the App or Service are transferred to you. This license ends upon termination of your right to use the Service under Section 13. This license does not alter your ownership of user-generated content or the license you grant under Section 4.2. You may not:
+- Copy, modify, or create derivative works of our software, except for copies necessary to download, install, and use the App under the license granted above or as permitted by applicable law
 - Reverse engineer, decompile, or disassemble the App
 - Use our trademarks or branding without permission
 - Remove or alter any copyright or proprietary notices
@@ -436,23 +454,16 @@ We reserve the right to:
 We will make reasonable efforts to notify you of significant changes.
 
 ### 12.2 Changes to Terms
-We may update these Terms from time to time. When we make changes:
-- We will update the "Effective Date" at the top of this document
-- We will notify you through the App or via email
-- Significant changes will require you to accept the new Terms before continuing to use the Service
-
-Your continued use of the Service after changes become effective constitutes your acceptance of the new Terms.
+We may update these Terms from time to time. We will update the Effective Date and version number and provide the revised Terms through the App or by email before they take effect. The notice will identify the effective date and describe material changes. Material changes require your affirmative acceptance before you continue using the Service; for users ages 13-17, the parent or legal guardian must provide the acceptance required under Section 2.1. Continued use after the disclosed effective date constitutes acceptance. Changes do not apply retroactively to disputes or claims arising before their effective date. If you do not accept a change, you must stop using the Service and may cancel your subscription and request account deletion under Sections 5.4 and 13; applicable refund and privacy rights remain unaffected. Updates to the Privacy Policy or Liability Waiver remain subject to those documents' applicable notice and acceptance requirements.
 
 ---
 
 ## 13. Termination
 
 ### 13.1 Termination by You
-You may terminate your account at any time by:
-- Canceling your subscription (see Section 5.4)
-- Contacting us to request account deletion
+You may delete your account and terminate your use of the Service through the App's in-app account deletion feature. You may also request account deletion and termination by emailing skatemonkeydev@gmail.com with the subject line "Account Deletion Request." Account deletion is separate from subscription cancellation. Canceling your subscription under Section 5.4 stops renewal but does not, by itself, delete or terminate your account; paid access continues through the current billing period unless your account is separately suspended or terminated under these Terms.
 
-Upon termination, your access to the Service will end, and your data will be deleted in accordance with our Privacy Policy.
+Deleting your account or uninstalling the App does not necessarily cancel a subscription purchased through Apple or Google. You must separately cancel that subscription through the applicable platform under Section 5.4 to prevent further renewal charges.
 
 ### 13.2 Termination by Us
 We may terminate or suspend your account immediately, without prior notice or liability, for:
@@ -463,10 +474,10 @@ We may terminate or suspend your account immediately, without prior notice or li
 - Any other reason at our sole discretion
 
 ### 13.3 Effect of Termination
-Upon termination:
-- Your right to access the Service immediately ceases
-- You remain liable for any amounts owed for your subscription
-- Sections of these Terms that by their nature should survive (including limitations of liability, indemnification, and dispute resolution) will continue to apply
+- When account termination becomes effective, your right to access and use the Service and the license granted under Section 11.1 end. During suspension, access may be restricted, but suspension does not itself constitute account deletion.
+- Termination does not eliminate payment obligations validly incurred before termination or authorize new charges beyond those permitted by your subscription terms, applicable platform rules, and applicable law. Refunds and any entitlement to reimbursement for unused paid access are governed by Section 5.5, applicable platform policies, and applicable law; termination does not waive those rights.
+- Account deletion and any retention of personal information, game content, backups, and trial-use records are governed by the Privacy Policy, including its deletion timelines and retention exceptions. Termination does not require immediate deletion of all data or eliminate your applicable privacy rights.
+- Provisions that by their nature should survive termination, including accrued payment obligations, intellectual property ownership, limitations of liability, indemnification, and dispute resolution, continue to apply subject to their stated scope, exceptions, and applicable law. Survival does not extend your right to use the Service or expand any release, indemnification obligation, or limitation of liability.
 
 ---
 
@@ -478,15 +489,10 @@ These Terms and any disputes arising from them shall be governed by the laws of 
 ### 14.2 Informal Resolution
 Before filing any legal claim, you agree to first contact us to attempt to resolve the dispute informally. We will attempt to resolve disputes in good faith.
 
-### 14.3 Arbitration (Optional)
-[Note: You may wish to include an arbitration clause. Consult with an attorney about the specific language and whether this is appropriate for your business.]
+### 14.3 Venue and Jurisdiction
+Any action or proceeding arising out of or relating to these Terms or the Service shall be brought exclusively in the state courts of the State of Utah having subject-matter jurisdiction. You and Skate Monkey LLC consent to the personal jurisdiction of those courts and waive any objection to venue in those courts, including any objection based on an inconvenient forum, to the fullest extent permitted by applicable law.
 
-### 14.4 Exceptions
-The following may be brought in court without prior arbitration:
-- Small claims court actions
-- Injunctive or equitable relief to protect intellectual property rights
-
-### 14.5 Class Action Waiver
+### 14.4 Class Action Waiver
 To the extent permitted by law, you agree that any dispute will be brought on an individual basis only, not as a class action, consolidated action, or representative action.
 
 ---
@@ -494,7 +500,7 @@ To the extent permitted by law, you agree that any dispute will be brought on an
 ## 15. General Provisions
 
 ### 15.1 Entire Agreement
-These Terms, together with our Privacy Policy and Liability Waiver, constitute the entire agreement between you and Skate Monkey LLC regarding the Service and supersede all prior agreements.
+These Terms, together with our Privacy Policy and Liability Waiver, constitute the entire agreement between you and Skate Monkey LLC regarding the Service and supersede all prior agreements. These documents shall be read together. If their provisions conflict, the Privacy Policy controls with respect to the collection, use, disclosure, security, retention, and deletion of personal information and the exercise of privacy rights; the Liability Waiver controls with respect to the assumption of risk and release of claims arising from skateboarding and related physical activities, subject to its exceptions and applicable law; and these Terms control with respect to all other Service matters, including subscriptions, payments, account administration, and Service-related claims. The Liability Waiver does not expand the release of claims to unrelated Service matters or override the Privacy Policy. Nothing in these Terms limits any exception to the release stated in the Liability Waiver or any right or liability that cannot lawfully be waived or limited.
 
 ### 15.2 Severability
 If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions will remain in full force and effect.
@@ -515,11 +521,8 @@ You agree to indemnify, defend, and hold harmless Skate Monkey LLC, its officers
 - Damage to public or private property caused by your skateboarding
 - Your content
 
-### 15.6 Force Majeure
-We are not liable for any failure or delay in performing our obligations due to causes beyond our reasonable control.
-
-### 15.7 Notice
-We may provide notices to you via email, in-app notifications, or by posting on our website. Notices are effective when sent or posted.
+### 15.6 Notice
+We may provide routine notices through the App, by email to the address associated with your account, or by posting on our website. Notices concerning the Privacy Policy, Liability Waiver, subscriptions, or price changes are subject to the specific notice and acceptance requirements applicable to them. A notice's delivery does not itself constitute your acceptance of a change or override a stated effective date, required notice period, or applicable law. You are responsible for keeping your account email address current. You may send notices to Skate Monkey LLC at skatemonkeydev@gmail.com; this email address is not designated for service of legal process.
 
 ---
 
@@ -528,7 +531,7 @@ We may provide notices to you via email, in-app notifications, or by posting on 
 If you have questions about these Terms, please contact us at:
 
 **Email:** skatemonkeydev@gmail.com
-**DMCA Copyright Agent:** skatemonkeydev@gmail.com
+**DMCA Copyright Agent:** Jonathan Bailey, CopyByte, 3157 Gentilly Blvd Suite # 2254, New Orleans, LA 70122. Phone: 1-504-356-4555. Email: skatemonkey-dmca@copybyte.com
 **Support:** skatemonkeydev@gmail.com
 
 ---
@@ -537,5 +540,5 @@ If you have questions about these Terms, please contact us at:
 
 By accepting these Terms, creating an account, or using Skate Monkey, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions. You also acknowledge that you have reviewed our Liability Waiver and Privacy Policy.
 
-**Last Updated:** January 5, 2026
-**Version:** 1.0
+**Last Updated:** November 8, 2026
+**Version:** 2.0
