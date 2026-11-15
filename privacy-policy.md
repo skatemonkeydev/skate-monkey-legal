@@ -31,7 +31,7 @@ Skate Monkey LLC is a multiplayer skateboarding game app that allows users to co
 **Scope of This Policy:**
 This Privacy Policy applies to all users of the Skate Monkey mobile application. By using our Service, you agree to the collection and use of information as described in this Privacy Policy.
 
-**Important:** Please also review our [Terms and Conditions](https://raw.githubusercontent.com/skatemonkeydev/skate-monkey-legal/main/terms-and-conditions.md) and [Liability Waiver](https://raw.githubusercontent.com/skatemonkeydev/skate-monkey-legal/main/liability-waiver.md).
+**Important:** Please also review our [Terms and Conditions](https://skatemonkey.app/terms) and [Liability Waiver](https://skatemonkey.app/waiver).
 
 ---
 

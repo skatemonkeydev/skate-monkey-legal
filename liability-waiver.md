@@ -288,7 +288,7 @@ This Waiver shall be governed by and construed in accordance with the laws of th
 If any provision of this Waiver is found to be invalid, unlawful, or unenforceable, the remaining provisions shall remain in full force and effect. The invalid provision shall be modified to the minimum extent necessary to make it valid and enforceable while preserving the intent of the parties.
 
 ### 8.3 Entire Agreement
-This Waiver, together with our [Terms and Conditions](https://raw.githubusercontent.com/skatemonkeydev/skate-monkey-legal/main/terms-and-conditions.md) and [Privacy Policy](https://raw.githubusercontent.com/skatemonkeydev/skate-monkey-legal/main/privacy-policy.md), constitutes the entire agreement between you and Skate Monkey LLC regarding liability for skateboarding-related injuries. If this Waiver conflicts with the Terms and Conditions or the Privacy Policy concerning a release of liability for skateboarding-related injuries, this Waiver controls to the extent of that conflict. Nothing in the Privacy Policy expands this Waiver's release of liability.
+This Waiver, together with our [Terms and Conditions](https://skatemonkey.app/terms) and [Privacy Policy](https://skatemonkey.app/privacy), constitutes the entire agreement between you and Skate Monkey LLC regarding liability for skateboarding-related injuries. If this Waiver conflicts with the Terms and Conditions or the Privacy Policy concerning a release of liability for skateboarding-related injuries, this Waiver controls to the extent of that conflict. Nothing in the Privacy Policy expands this Waiver's release of liability.
 
 ---
 
